@@ -1,7 +1,6 @@
 <h1 align="center">👋 Welcome traveler, you've arrived at my cloud campfire</h1>
 <br/>
 <p align="center">
-  <img src="campfire.png" width="300" align="center" alt="campfire">
 </p>
 <h2 align="center">Take a break — here we build, debug, and dream in code</h2>
 
